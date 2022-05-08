@@ -1,0 +1,17 @@
+pom.xml
+build.gradle
+settings.gradle
+src/main/resources/application.properties
+.gitignore
+.travis.yml
+README.md
+api/openapi.yaml
+build.sbt
+docs/*
+git_push.sh
+gradle.properties
+gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.properties
+gradlew
+gradlew.bat
+src/main/AndroidManifest.xml
